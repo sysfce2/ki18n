@@ -67,6 +67,7 @@ ecm_generate_headers(KI18n_HEADERS
   HEADER_NAMES
     KLazyLocalizedString
     KLocalizedContext
+    KLocalizedSpinBox
     KLocalizedString
     KLocalizedTranslator
     KuitSetup
